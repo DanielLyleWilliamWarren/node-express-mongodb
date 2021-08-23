@@ -1,3 +1,3 @@
-# How to spin up?
+# How to spin up db?
 
-[] npm run start
+- `npm install` followed by `npm run start`
